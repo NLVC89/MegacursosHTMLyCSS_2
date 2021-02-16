@@ -2,3 +2,8 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+    background:#0067af url(images/fondo.jpg) top repeat-x;
+    
+}
